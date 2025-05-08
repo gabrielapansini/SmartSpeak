@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "362396135115",
+    "firebase_url": "https://smartspeak-d1d14-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "smartspeak-d1d14",
+    "storage_bucket": "smartspeak-d1d14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362396135115:android:e88347fd1e66133b6cb54e",
+        "android_client_info": {
+          "package_name": "com.example.smartspeaktest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOa3hAFkf3VADSiIIpatSr9P7vc9w5UNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
